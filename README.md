@@ -128,7 +128,7 @@
 
 <div style="height:20px; width:100%"></div>
 
-<h3 align="left">Trophy:</h3>
+<!-- <h3 align="left">Trophy:</h3>
 
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
@@ -142,7 +142,7 @@
  </div>
  <br><br>
 
-<div style="height:20px; width:100%"></div>
+<div style="height:20px; width:100%"></div> -->
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
@@ -157,21 +157,21 @@
 
 <div style="height:20px; width:100%"></div>
 
-<h3 align="left">Activity:</h3>
+<!-- <h3 align="left">Activity:</h3>
 
 ![Astros47's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Astros47&custom_title=Astros47's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <div style="height:20px; width:100%"></div>
 
-<!-- <h3 align="left">Achievements:</h3>
+<h3 align="left">Achievements:</h3>
 
 [![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supuna97)](https://holopin.io/@supuna97)
-<br><br><br> -->
+<br><br><br>
 
 <div style="height:20px; width:100%"></div>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> Dev is Art! <b>hey, let's make great creations!</b> :)</em>
 
 <br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Astro Star 47</a></p>
+<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Astro Star 47</a></p> -->
