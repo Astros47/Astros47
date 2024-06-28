@@ -54,11 +54,11 @@
 
 - 🔭 UI/UX, Responsible, Pixel Perfect **Frontend** Developer
 
-- 🌱 Robust **Ecommerce** Expert
+- 🌱 Appeal and innovative **Ecommerce** Expert
 
 - 👨‍💻 Funning **Browser Game** Creator
 
-- ⚡ Strong Security **Backend** Developer
+- ⚡ Robust & sophisticated **Backend** Developer
 
 - 📄 Clear **Risk** Solver
 
