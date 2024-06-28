@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, This is Astros47</h1>
-<p align="center">💎 As a Senior Frontend Developer, I specialize in high-quality UI/UX development for ecommerce platforms and browser games. With extensive experience in advanced frameworks such as 🌐Shopify, WooCommerce, WordPress, and Magento, I deliver professional and user-friendly websites tailored to client needs.
-I have a keen eye for detail and am dedicated to creating seamless, fast-paced ecommerce experiences. By utilizing cutting-edge technologies like 💻Phaser and Three.js, I enhance website interactivity and innovation, providing engaging and visually appealing user experiences.
-In addition to my professional work, I have a passion for developing MMO browser games. Creating immersive and enjoyable gaming experiences for players is a source of great satisfaction for me.🛠️
+<p align="center">🌐I'm a full stack developer with expertise in multiple programming languages and frameworks, including React, Vue, Angular, Node.js, Next.js, Nest.js, Python, Django, Ruby on Rails, and TypeScript. <br/>
+  🛠️With proficiency in a range of databases such as MySQL, MongoDB, and PostgreSQL, I'm well-versed in building scalable and efficient web applications. <br/>
+  💻Additionally, I've worked with cloud platforms like AWS and Firebase to deploy and manage projects efficiently.
+ 
 </p>
 <p align="center"> 
   <svg xmlns="http://www.w3.org/2000/svg" width="135" height="20">
